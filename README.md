@@ -1,2 +1,2 @@
 # Oficina-Online-Web
-This repository contains the OfiOnline web files. Feel free to contribute!
+This repository contains the Oficina Online web files. Feel free to contribute!
